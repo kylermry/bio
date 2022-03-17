@@ -1,0 +1,143 @@
+div.profile-pic {
+    text-align: center;
+    size: 50px;
+    
+  }
+
+  h1 {
+      font-size: 100px;
+      margin: 0rem;
+  }
+
+  h4 {
+      text-align:start;
+  }
+
+  body {
+      background: url(data:image/jpeg;base64,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);
+      opacity: .75;
+  }
+  .profile-page , profile{
+      max-width: 1100px;
+      margin: 0 auto;  
+      padding: 0 3rem;
+      margin-top: 4rem;
+      text-align: center;
+  }
+
+  h1{
+      color: #777;
+      font-size: 4rem;  
+      font-weight: 400;
+      margin: 0
+  }
+
+  img{
+      margin-top: 0rem;
+      margin-bottom: 0rem;   
+      border-radius: 50%   
+  }
+
+  h1, h4, h2 ,p{
+      color:white
+  }
+  
+  h4 {
+      text-align: center;
+  }
+
+  p{
+      font-size: small;
+      text-align: center;
+  }
+
+
+
+
+  .button {
+      display: inline-flex;
+      height: 50px;
+      padding: 10;
+      background: dodgerblue;
+      border:none;
+      outline: none;
+      border-radius: 5px;
+      overflow:hidden;
+      font-family: sans-serif;
+      font-size: 20px;
+      font-weight: 500;
+      cursor: pointer;
+      align-items: center;
+      margin-left: 500px;
+  }
+
+  .button_text {display: inline-flex;
+    align-items: center;
+    padding: 0 10px;
+    color:black;}
+
+
+ .button:hover{
+     background:cyan;
+ }
+
+ .buttonmiddle{
+    display: inline-flex;
+    height: 50px;
+    padding: 10;
+    background: dodgerblue;
+    border:none;
+    outline: none;
+    border-radius: 5px;
+    overflow:hidden;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.buttonmiddle:hover{
+    background:cyan;
+}
+
+ .buttonright{
+     display: inline-flex;
+     height: 50px;
+     padding: 10;
+     background: dodgerblue;
+     border:none;
+     outline: none;
+     border-radius: 5px;
+    overflow:hidden;
+    font-family: sans-serif;
+     font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+     align-items: center;
+    margin-right: 550px;
+    }
+
+    
+
+    .buttonright:hover{
+        background:cyan;}
+
+        .follow{
+            display: inline-flex;
+            height: 25px;
+            padding: 20;
+            background: rgb(30, 240, 255);
+            border:none;
+            outline: none;
+            border-radius: 5px;
+           overflow:hidden;
+           font-family: sans-serif;
+            font-size: 15px;
+           font-weight: 500;
+           cursor: pointer;
+            align-items: center;
+           margin-left: 725px;
+           margin-top: 25px;
+           }
